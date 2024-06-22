@@ -1,5 +1,5 @@
 {
-  description = "A very basic flake";
+  description = "JnixFlake";
 
 inputs = {
     # Specify the source of Home Manager and Nixpkgs.
